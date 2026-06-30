@@ -1,0 +1,6 @@
+{
+  "name": "ライブ当落管理と参戦記録アプリ",
+  "description": "ライブの予定や当落、参戦記録をシンプルに管理・記録できるオタ活・推し活サポートアプリです。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
